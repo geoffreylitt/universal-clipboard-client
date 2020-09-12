@@ -50,7 +50,7 @@
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
     "menubar": "^8.0.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@electron-forge/cli": "6.0.0-beta.51",
